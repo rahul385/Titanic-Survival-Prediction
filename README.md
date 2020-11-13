@@ -1,10 +1,8 @@
 # Titanic: Machine Learning
 
+## Link to Blog Post
+https://medium.com/@385.rahul/titanic-survival-prediction-7645df8b40cd
 
-## Tools Used
-* Python
-* Scikit-learn
-* Seaborn and matplotlib
 
 ## What's in this Repository?
 * `Titanic.ipynb` : The Jupyter notebook that includes all explanations, code and visualizations
