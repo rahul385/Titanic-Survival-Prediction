@@ -1,12 +1,26 @@
 # Titanic: Machine Learning
 
+### Table of Contents
+1. [Blog Post](https://medium.com/@385.rahul/titanic-survival-prediction-7645df8b40cd)
+2. [Installation](#installation)
+3. [Project Motivation](#motivation)
+4. [File Descriptions](#files)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Tools Used
-* Python
-* Scikit-learn
-* Seaborn and matplotlib
+## Installation <a name="installation"></a>
 
-## What's in this Repository?
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+
+## Project Motivation<a name="motivation"></a>
+
+For this project, I was interested in using Titanic dataset to better understand:
+
+1. Were Females more like to survive?
+2. Were people of higher socioeconomic class more likely to survive?
+3. Were people with more siblings or spouses aboard less likely to survive?
+
+## File Descriptions <a name="files"></a>
+
 * `Titanic.ipynb` : The Jupyter notebook that includes all explanations, code and visualizations
 * Data: Includes dataset provided by Kaggle for the competition
     * `train.csv` : Training data
@@ -18,3 +32,7 @@
    * `Pclass-Survived.jpg` : Plot of Pclass vs. Survived features
    * `Sex-Survived.jpg` : Plot of Sex vs. Survived features
    * `SibSp-Survived.jpg` : Plot of SibSp vs. Survived features
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to Kaggle for the data. Feel free to use the code here as you would like!
