@@ -22,6 +22,7 @@ For this project, I was interested in using Titanic dataset to better understand
 ## File Descriptions <a name="files"></a>
 
 * `Titanic.ipynb` : The Jupyter notebook that includes all explanations, code and visualizations
+* `Titanic_Profile_Report.html` : Profiling report of train data set
 * Data: Includes dataset provided by Kaggle for the competition
     * `train.csv` : Training data
     * `test.csv` : Testing data
