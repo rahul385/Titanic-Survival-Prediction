@@ -1,11 +1,10 @@
 # Titanic: Machine Learning
 
 ### Table of Contents
-1. [Blog Post](https://medium.com/@385.rahul/titanic-survival-prediction-7645df8b40cd)
-2. [Installation](#installation)
-3. [Project Motivation](#motivation)
-4. [File Descriptions](#files)
-6. [Licensing, Authors, and Acknowledgements](#licensing)
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
