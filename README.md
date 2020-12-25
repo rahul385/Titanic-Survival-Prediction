@@ -12,7 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-To train a mahcine learning model for prediction whether a person survived or not using the information provided in the dataset. For this project, I was also interested in using the dataset to better understand:
+To train a mahcine learning model for predicting whether a person survived or not using the information provided in the dataset. For this project, I was also interested in using the dataset to better understand:
 
 1. Were Females more like to survive?
 2. Were people of higher socioeconomic class more likely to survive?
