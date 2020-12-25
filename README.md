@@ -42,7 +42,7 @@ To train a mahcine learning model for prediction whether a person survived or no
 ![Screenshot 2](https://github.com/rahul385/Titanic-Survival-Prediction/blob/main/Visualizations/SibSp-Survived.png)
 
 ***Screenshot 3: People with higher socioeconomic class were more likely to survive***
-![Screenshot 3](https://github.com/rahul385/Titanic-Survival-Prediction/blob/main/Visualizations/Pclass-Survived.PNG)
+![Screenshot 3](https://github.com/rahul385/Titanic-Survival-Prediction/blob/main/Visualizations/Pclass-Survived.png)
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
