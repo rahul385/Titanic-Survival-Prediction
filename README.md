@@ -36,13 +36,13 @@ To train a mahcine learning model for prediction whether a person survived or no
 ## Screenshots
 
 ***Screenshot 1: Females were more likely to survive***
-![Screenshot 1](https://github.com/rahul385/Titanic-Survival-Prediction/tree/main/Visualizations/Sex-Survived.png)
+![Screenshot 1](https://github.com/rahul385/Titanic-Survival-Prediction/blob/main/Visualizations/Sex-Survived.png)
 
 ***Screenshot 2: People with more siblings or spouse aboard were less likely to survive***
-![Screenshot 2](https://github.com/rahul385/Titanic-Survival-Prediction/blob/master/Visualizations/SibSp-Survived.png)
+![Screenshot 2](https://github.com/rahul385/Titanic-Survival-Prediction/blob/main/Visualizations/SibSp-Survived.png)
 
 ***Screenshot 3: People with higher socioeconomic class were more likely to survive***
-![Screenshot 2](https://github.com/rahul385/Titanic-Survival-Prediction/blob/master/Visualizations/Pclass-Survived.PNG)
+![Screenshot 3](https://github.com/rahul385/Titanic-Survival-Prediction/blob/main/Visualizations/Pclass-Survived.PNG)
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
