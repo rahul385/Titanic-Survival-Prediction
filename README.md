@@ -8,11 +8,11 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in using Titanic dataset to better understand:
+To train a mahcine learning model for prediction whether a person survived or not using the information provided in the dataset. For this project, I was also interested in using the dataset to better understand:
 
 1. Were Females more like to survive?
 2. Were people of higher socioeconomic class more likely to survive?
@@ -20,12 +20,12 @@ For this project, I was interested in using Titanic dataset to better understand
 
 ## File Descriptions <a name="files"></a>
 
-* `Titanic.ipynb` : The Jupyter notebook that includes all explanations, code and visualizations
-* `Titanic_Profile_Report.html` : Profiling report of train data set
+* `Titanic.ipynb` : The Jupyter notebook that includes data exploration, code and visualizations.
+* `Titanic_Profile_Report.html` : Profiling report of training data set.
 * Data: Includes dataset provided by Kaggle for the competition
     * `train.csv` : Training data
-    * `test.csv` : Testing data
-* Visualizations: Includes all plots generated from the training data
+    * `test.csv` : Test data
+* Visualizations: Includes all plots generated from the training data for data exploration and analysis
    * `AgeGroup-Survived.jpg` : Plot of AgeGroup vs. Survived features
    * `CabinBool-Survived.jpg` : Plot of CabinBool vs. Survived features
    * `Parch-Survived.jpg` : Plot of Parch vs. Survived features
@@ -35,4 +35,10 @@ For this project, I was interested in using Titanic dataset to better understand
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Kaggle for the data. Feel free to use the code here as you would like!
+Author: Rahul Gupta Copyright 2020
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
