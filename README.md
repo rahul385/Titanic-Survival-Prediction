@@ -4,6 +4,7 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
+3. [Visualizations](#images)
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
@@ -33,7 +34,7 @@ To train a mahcine learning model for predicting whether a person survived or no
    * `Sex-Survived.jpg` : Plot of Sex vs. Survived features
    * `SibSp-Survived.jpg` : Plot of SibSp vs. Survived features
 
-## Screenshots
+## Screenshots<a name="images"></a>
 
 ***Screenshot 1: Females were more likely to survive***
 ![Screenshot 1](https://github.com/rahul385/Titanic-Survival-Prediction/blob/main/Visualizations/Sex-Survived.png)
