@@ -23,16 +23,18 @@ To train a mahcine learning model for predicting whether a person survived or no
 
 * `Titanic.ipynb` : The Jupyter notebook that includes data exploration, code and visualizations.
 * `Titanic_Profile_Report.html` : Profiling report of training data set.
+
 * Data: Includes dataset provided by Kaggle for the competition
-    * `train.csv` : Training data
-    * `test.csv` : Test data
+    * `train.csv` : Training dataset
+    * `test.csv` : Test dataet
+    
 * Visualizations: Includes all plots generated from the training data for data exploration and analysis
-   * `AgeGroup-Survived.jpg` : Plot of AgeGroup vs. Survived features
-   * `CabinBool-Survived.jpg` : Plot of CabinBool vs. Survived features
-   * `Parch-Survived.jpg` : Plot of Parch vs. Survived features
-   * `Pclass-Survived.jpg` : Plot of Pclass vs. Survived features
-   * `Sex-Survived.jpg` : Plot of Sex vs. Survived features
-   * `SibSp-Survived.jpg` : Plot of SibSp vs. Survived features
+   * `AgeGroup-Survived.jpg` : Plot of AgeGroup vs. Survived feature
+   * `CabinBool-Survived.jpg` : Plot of CabinBool vs. Survived feature
+   * `Parch-Survived.jpg` : Plot of Parch vs. Survived feature
+   * `Pclass-Survived.jpg` : Plot of Pclass vs. Survived feature
+   * `Sex-Survived.jpg` : Plot of Sex vs. Survived feature
+   * `SibSp-Survived.jpg` : Plot of SibSp vs. Survived feature
 
 ## Screenshots<a name="images"></a>
 
