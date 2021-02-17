@@ -13,9 +13,11 @@
 
 All the librarires required to run the code are mentioned in [requirements.txt](https://github.com/rahul385/Titanic-Survival-Prediction/blob/master/requirements.txt).
 
+To install Run: `pip install -r requirements.txt`
+
 ## Project Motivation<a name="motivation"></a>
 
-To train a mahcine learning model for predicting whether a person survived or not using the information provided in the dataset. For this project, I was also interested in using the dataset to better understand:
+To train a mahcine learning model for predicting whether a person survived or not using the information provided in the dataset. For this project, I was also interested in using the dataset to better understand the following aspects.
 
 1. Were Females more like to survive?
 2. Were people of higher socioeconomic class more likely to survive?
@@ -23,7 +25,8 @@ To train a mahcine learning model for predicting whether a person survived or no
 
 ## File Descriptions <a name="files"></a>
 
-* `Titanic.ipynb` : The Jupyter notebook that includes data exploration, code and visualizations.
+* `Titanic.ipynb` : The jupyter notebook [Titanic.ipynb](https://github.com/rahul385/Titanic-Survival-Prediction/blob/master/Titanic.ipynb) includes data exploration, code, machine learning model and visualizations. After comparing the accuracy of severla lgorithms I decided to use I decided to use the Gradient Boosting model with accuracy score 84.77.
+
 * `Titanic_Profile_Report.html` : Profiling report of training data set.
 
 * Data: Includes dataset provided by Kaggle for the competition
