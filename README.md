@@ -1,5 +1,7 @@
 # Titanic: Machine Learning
 
+<p align = 'center'><img src = 'logo.png', height=250, width =380></p>
+
 ### Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
@@ -9,7 +11,7 @@
 
 ## Installation <a name="installation"></a>
 
-There are no additional libraries required to run the code beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*
+All the librarires required to run the code are mentioned in [requirements.txt](https://github.com/rahul385/Titanic-Survival-Prediction/blob/master/requirements.txt).
 
 ## Project Motivation<a name="motivation"></a>
 
